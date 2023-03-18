@@ -29,7 +29,7 @@ public class LibraryCard {
     private CardStatus status;
 
     @CreationTimestamp
-    private Date creationDate;
+    private Date creationDate; //
 
     @UpdateTimestamp
     private Date updationDate;
